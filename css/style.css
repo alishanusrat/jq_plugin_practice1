@@ -1,0 +1,114 @@
+.count{
+  font-size: 50px;
+  padding: 0 20px;
+}
+.count_t{
+  font-size: 60px;
+}
+b{
+  font-size: 30px;
+}
+.s_item{
+  background-color: gold;
+}
+.box{
+  height: 500px;
+}
+
+/*.main{
+    position: relative;
+    max-width: 960px;
+    margin: 150px auto;
+}
+.main > .item{
+    display: block;
+}
+.main > .item > p{
+    font-size: 70px;
+}
+*/
+.timer_button{
+    width: 100px;
+    height: 50px;
+
+}
+
+.countup {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.countup .timeel {
+  display: inline-block;
+  padding: 10px;
+  background: grey;
+  margin: 0;
+  color: green;
+  min-width: 2.6rem;
+  margin-left: 13px;
+  border-radius: 10px 0 0 10px;
+}
+.countup span[class*="timeRef"] {
+  border-radius: 0 10px 10px 0;
+  margin-left: 0;
+  background: purple;
+  color: white;
+}
+.c3_button{
+  margin-left: 560px;
+}
+#total_time{
+  margin-left:200px;
+}
+
+
+div.digit {
+  height: 360px;
+  width: 300px;
+  float: left;
+}
+
+div.digit div {
+  height: 40px;
+  width: 40px;
+  float: left;
+  border: 2px solid;
+  border-radius: 15px;
+}
+
+div.digit div.horizontal { width: 120px; }
+
+div.digit div.vertical { height: 120px; }
+
+div.digit div.block {
+  height: 120px;
+  width: 120px;
+}
+
+div.digit div.row { clear: left; }
+
+.d1,.d2{
+  padding-left: 50px;
+  background-color: black;
+}
+div.digit div.block {
+    margin-left: 9px;
+    height: 120px;
+    width: 120px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.item {
+  width: 200px;
+  height: 200px;
+  margin: 50px auto;
+  padding-top: 75px;
+  background: black;
+  text-align: center;
+  color: white;
+  font-size: 3em;
+}
+
+
